@@ -249,7 +249,7 @@ top -b -n 1 | head -20 >> outputs/ex12_processos.txt
 history | tail -20 > outputs/ex13_historico.txt
 
 # Executar comando do histórico (exemplo)
-!pwd
+pwd!
 
 # Buscar no histórico
 history | grep "mkdir" >> outputs/ex13_historico.txt

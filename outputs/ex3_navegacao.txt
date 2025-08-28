@@ -1,0 +1,5 @@
+/workspaces/lab-1-introducao-AnthonyVeloso/exemplos
+/workspaces/lab-1-introducao-AnthonyVeloso
+/workspaces/lab-1-introducao-AnthonyVeloso/docs
+/workspaces/lab-1-introducao-AnthonyVeloso/outputs
+/workspaces/lab-1-introducao-AnthonyVeloso
